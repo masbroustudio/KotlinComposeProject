@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Submission Compose</string>
+    <string name="tvmytvshow">My TV Show</string>
+    <string name="app_theme">About the App</string>
+    <string name="app_language">App Language</string>
+    <string name="settings">Setting</string>
+    <string name="drive_mode">Drive Mode</string>
+    <string name="rate_us_on_play_store">Rate us on playstore</string>
+    <string name="feedback">Feedback</string>
+    <string name="help_center">help Center</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Services</string>
+    <string name="version_">Version desc</string>
+    <string name="version_0_1">Version 1.0</string>
+    <string name="favorite_shows">My Favorite TV Show</string>
+    <string name="setting_top_app_bar">About Me</string>
+    <string name="about">About</string>
+    <string name="about_photo_desc">Profile Photo</string>
+    <string name="about_name_desc">Yudha Elfransyah</string>
+    <string name="about_email_desc">yudhae@gmail.com</string>
+    <string name="about_text">This My TV Show App is Submission of Dicoding Jetpack Compose Course. This course is awesome, check this out [https://www.dicoding.com/academies/445/]</string>
+</resources>
